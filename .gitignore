@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+
+# NEXORA challenge data - DO NOT PUBLISH
+data/
+*.zip
+
+# Challenge materials containing restricted data/instructions
+NEXORA_Materials/
+
+# Local experiment files
+*.log
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
