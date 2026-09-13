@@ -1,11 +1,3 @@
-# Python
-__pycache__/
-*.py[cod]
-*.pyo
-
-# Virtual environment
-.venv/
-
 # NEXORA challenge data - DO NOT PUBLISH
 data/
 *.zip
@@ -13,13 +5,18 @@ data/
 # Challenge materials containing restricted data/instructions
 NEXORA_Materials/
 
-# Local experiment files
-*.log
-.env
+# Derived datasets and experiment outputs - DO NOT PUBLISH
+*_dataset.csv
+*_features.csv
+*_analysis.csv
+*_importance.csv
+*_rankings.csv
+baseline_vs_ml_comparison.csv
+predictions_baseline.csv
+fault_feature_relationships.csv
+historical_decision_ml_dataset_aligned.csv
 
-# Jupyter
-.ipynb_checkpoints/
-
-# OS files
-.DS_Store
-Thumbs.db
+# Python cache / local environment
+__pycache__/
+*.pyc
+.venv/
