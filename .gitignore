@@ -20,3 +20,23 @@ historical_decision_ml_dataset_aligned.csv
 __pycache__/
 *.pyc
 .venv/
+# Experimental / development scripts - not part of final submission
+analyze_fault_relationships.py
+analyze_missing_telemetry.py
+build_decision_time_features.py
+build_historical_decision_features.py
+build_ml_dataset.py
+compare_targets.py
+enrich_decision_time_features.py
+evaluate_baseline_vs_ml.py
+generate_final_predictions.py
+inspect_logistic_features.py
+ml_features.py
+prepare_final_ml_data.py
+run_debug.py
+test_risk_score.py
+train_aligned_model.py
+train_clean_logistic.py
+train_decision_time_model.py
+train_ml_model.py
+train_random_forest.py
