@@ -90,3 +90,9 @@ It cannot:
 * replace operational judgement
 
 See `DECISIONS.md`, `AI-USAGE.md`, and `WHAT_IT_CANNOT_DO.md` for additional details.
+
+## Screen Recording
+
+A screen recording demonstrating the NEXORA 2026 ML solution, execution, and final prediction result:
+
+[View Screen Recording](https://drive.google.com/file/d/19c1z1PpkJOO22rgj7eSMRs6ymvg5TWl_/view?usp=sharing)
